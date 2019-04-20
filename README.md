@@ -2,10 +2,13 @@
 
 Repository and Owner Information:
 
-firstname: "Prajakta"
-lastname: "Patil"
-course: "Applied Data Science - INFO I590-9772"
-semester: sp19
+Firstname: "Prajakta"
+
+Lastname: "Patil"
+
+Course: "Applied Data Science - INFO I590-9772"
+
+Semester: sp19
 
 GitHub profile: https://github.com/PrajaktaRPatil
 
