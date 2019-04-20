@@ -6,6 +6,9 @@ firstname: "Prajakta"
 lastname: "Patil"
 course: "Applied Data Science - INFO I590-9772"
 semester: sp19
+
 GitHub profile: https://github.com/PrajaktaRPatil
+
 Code portfolio: https://github.com/PrajaktaRPatil/dataanalytics/tree/master/Code%20Portfolio
+
 Project : https://github.com/PrajaktaRPatil/dataanalytics/tree/master/Project
